@@ -1,6 +1,0 @@
-git add .
-git commit -m “提交备注”
-git push origin main
-add . ：" . " 表示当前文件夹下全部文件，可选中当个文件夹或者文件
-origin：表示远程仓库地址别名(可自定义)
-main：表示分支名(默认是main)
